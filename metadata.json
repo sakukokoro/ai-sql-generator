@@ -1,0 +1,5 @@
+{
+  "name": "AI SQL Query Generator",
+  "description": "An intelligent tool that translates natural language questions into precise SQL queries based on your database schema. Paste your schema, ask a question, and get an optimized SQL query instantly.",
+  "requestFramePermissions": []
+}
